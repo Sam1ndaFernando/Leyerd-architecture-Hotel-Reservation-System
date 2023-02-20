@@ -1,0 +1,17 @@
+package lk.RoyalGatesHotels.dao;
+
+public enum DaoTypes {
+    COMPLAIN_DAO,
+    EMPLOYEE_DAO,
+    GUEST_DAO,
+    HALL_DAO,
+    HALL_RESERVATION_DAO,
+    MAINTENACE_DAO,
+    MEAL_ORDERS_DAO,
+    MEAL_PACKAGE_DAO,
+    PAYMENT_DAO,
+    ROOM_DAO,
+    ROOM_RESERVATION_DAO,
+    USERS_DAO
+
+}
